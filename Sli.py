@@ -67,5 +67,3 @@ while winner != 1 :
         else :
             print("a wrong command")
             clean()
-
-4
